@@ -1,0 +1,17 @@
+{
+  "name": "splitmodeWithProxy",
+  "version": "0.0.1",
+  "private": true,
+
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "https":"^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-training-apptech-2015/node-js-assignment-1-domstrueboy"
+  }
+}
